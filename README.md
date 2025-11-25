@@ -40,15 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PathakAman66&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathakAman66&layout=compact&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PathakAman66&theme=tokyonight" height="150" />
-</p>
 
 ---
 
