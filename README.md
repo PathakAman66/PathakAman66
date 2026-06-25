@@ -1,66 +1,146 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Aman Pathak</span></h1>
-<h3 align="center">💡 AI & IoT Innovator | Tech Enthusiast | Building Smart & Assistive Systems</h3>
+<!-- ================= HEADER ================= -->
 
----
+<h1 align="center">Hi 👋, I'm Aman Pathak</h1>
 
-### 🚀 About Me
-- 🤖 Passionate about **AI, IoT, and Embedded Systems**
-- 🧩 Creating **Assistive Devices** for the blind, deaf & differently-abled
-- 🌍 Believer in **Technology for Social Good**
-- 📚 Constant learner exploring **AI + Hardware + Cloud Integration**
+<h3 align="center">
+Software Engineer • AI Developer • Founder @ UDTech India
+</h3>
 
----
-
-### 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,flask,fastapi,mysql,mongodb,raspberrypi,arduino,opencv,git,github,aws,azure" />
+Building AI-powered applications, intelligent systems, and scalable software solutions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-pathak-a87543321">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:amanpathak66606@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/PathakAman66">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🧩 Featured Projects
-| 🔧 Project | 💡 Description | 🧠 Tech Stack |
-|------------|----------------|---------------|
-| [**AI Assistive Device for the Blind**](#) | Real-time object detection, navigation & voice feedback using Raspberry Pi | Python, OpenCV, TensorFlow, Raspberry Pi |
+# 🚀 About Me
 
-### 🧠 Interests & Focus
-- 🤝 **AI for Accessibility & Healthcare**
-- ⚙️ **Edge AI & Smart Embedded Systems**
-- 🛰️ **IoT & Real-Time Monitoring**
-- 🧩 **Human-Centered Innovation**
-- ☁️ **Cloud Deployment & Data Intelligence**
+🎓 B.Tech Student in Artificial Intelligence & Data Science
+
+🏢 Founder & Developer at UDTech India (MSME Registered)
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering
+
+🏆 Top 10 Solo Finalist – GenAI Hackathon Delhi
+
+🏆 1st Place – College Hackathon Competition
+
+🌱 Currently building AI-powered applications and assistive technologies
 
 ---
 
-### 🏆 GitHub Trophies
+# 💻 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### AI / ML
+
+TensorFlow • Scikit-Learn • OpenCV • Deep Learning • Computer Vision • Generative AI
+
+### Web Development
+
+React.js • Node.js • HTML • CSS
+
+### Tools
+
+Git • GitHub • Docker • Linux • VS Code • Jupyter Notebook
+
+---
+
+# 🚀 Featured Projects
+
+## AI-Powered Blind Assistive Navigation System
+
+* Real-time obstacle detection
+* Voice-guided navigation
+* Scene understanding
+* Emergency alert integration
+
+**Tech:** Python, OpenCV, Raspberry Pi, TensorFlow
+
+---
+
+## AI-Based Human Pose Detection System
+
+* Real-time pose estimation
+* Activity monitoring
+* Landmark detection
+* Deep learning-based inference
+
+**Tech:** Python, OpenCV, MediaPipe
+
+---
+
+## Disease Prediction System
+
+* Machine Learning-based disease prediction
+* Predictive analytics
+* Data visualization
+* Risk assessment
+
+**Tech:** Python, Scikit-Learn, Pandas
+
+---
+
+## Smart Emergency Response System
+
+* Accident detection
+* SOS alerts
+* Location sharing
+* Emergency workflow automation
+
+**Tech:** Python, AI, IoT
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PathakAman66&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PathakAman66&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathakAman66&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+# 🏆 Achievements
+
+* Top 10 Solo Finalist – GenAI Hackathon Delhi
+* 1st Place – College Hackathon
+* Finalist – HackWithMAIT 5.0
+* Founder – UDTech India
+* Organizer – BuildX India National Hackathon
 
 ---
 
-### 🌱 Latest GitHub Activity
-<!--START_SECTION:activity-->
-1. 💡 Working on AI-Powered Fitness Trainer  
-2. 🔬Personal portfolio 
-  
-<!--END_SECTION:activity-->
+# 🎯 2026 Goals
+* Contribute to Open Source
+* Build production-grade AI applications
+* Secure Software Engineering Internship
+* Scale UDTech India
 
 ---
 
-### 🤝 Connect With Me
 <p align="center">
-  <a href="pathakaman66606@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aman-pathak-a87543321"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/AmanPathak28704"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/PathakAman66"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+
+"Technology should solve real-world problems and improve lives."
+
 </p>
-
----
-
-> 🧩 “Innovation is not about creating technology — it’s about making life easier and more inclusive.”  
-> — *Aman Pathak*
