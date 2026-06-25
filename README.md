@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aman Pathak</h1>
 
 <h3 align="center">
-Software Engineer • AI Developer • Founder @ UDTech India
+Software Engineer • AI Developer • Entrepreneur
 </h3>
 
 <p align="center">
@@ -30,7 +30,7 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 🎓 B.Tech Student in Artificial Intelligence & Data Science
 
-🏢 Founder & Developer at UDTech India (MSME Registered)
+🏢 Founder & Developer student tech community
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering
 
@@ -126,8 +126,7 @@ Git • GitHub • Docker • Linux • VS Code • Jupyter Notebook
 * Top 10 Solo Finalist – GenAI Hackathon Delhi
 * 1st Place – College Hackathon
 * Finalist – HackWithMAIT 5.0
-* Founder – UDTech India
-* Organizer – BuildX India National Hackathon
+* Google Cloud Study Jam
 
 ---
 
@@ -135,7 +134,7 @@ Git • GitHub • Docker • Linux • VS Code • Jupyter Notebook
 * Contribute to Open Source
 * Build production-grade AI applications
 * Secure Software Engineering Internship
-* Scale UDTech India
+* Become successful Entrepreneur
 
 ---
 
